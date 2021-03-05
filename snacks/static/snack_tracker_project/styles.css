@@ -1,0 +1,14 @@
+body {
+    background: black 
+url("images/icecream.jpg") no-repeat;
+    background-size: 800px 400px;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: "Andale Mono", monospace;
+    margin-left: 20px;
+}
+    
+a {
+    color: white;
+}
