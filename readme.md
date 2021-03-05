@@ -1,5 +1,7 @@
 # Django Models - Snack Tracker
 
+PR Link: https://github.com/gracerosemary/django-models/compare/lab27?expand=1 
+
 **Author**: Grace Choi
 **Version**: 1.0.0 
 
